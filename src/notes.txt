@@ -1,0 +1,6 @@
+  // if (operators.includes(lastChar)) {
+  // setResult(result.slice(0, -1) + value);
+  //   else {
+  //     setResult(result + value);
+  //   }
+  // };
